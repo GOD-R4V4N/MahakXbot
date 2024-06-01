@@ -62,5 +62,5 @@ youtube_search_python
 pyshorteners
 faker
 pyfiglet
-openai==1.26.0
+openai==1.30.5
 numpy==1.26.3
