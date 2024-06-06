@@ -2,7 +2,7 @@ aiofiles
 unidecode
 requests
 aiohttp==3.9.1
-apscheduler==3.6.3
+apscheduler==3.10.4
 lexica-api
 asyncio==3.4.3
 MukeshAPI
