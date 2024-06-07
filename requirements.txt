@@ -67,4 +67,4 @@ pyshorteners
 faker
 pyfiglet
 openai==1.32.0
-numpy==1.26.3
+numpy==1.26.4
