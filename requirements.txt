@@ -1,7 +1,7 @@
 aiofiles
 unidecode
 requests
-aiohttp==3.9.1
+aiohttp==3.9.5
 apscheduler==3.6.3
 lexica-api
 asyncio==3.4.3
